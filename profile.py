@@ -1,3 +1,4 @@
+git init
 class StudentProfile:
     def __init__(self, name, age, favorite, hobbies):
         self.name = name
@@ -11,3 +12,6 @@ class StudentProfile:
         print("Age:", self.age)
         print("Favorite:", self.favorite)
         print("Hobbies:", ", ".join(self.hobbies))
+
+git config --local user.name "Riley Loves Cock"
+git config --local user.email "supergawk3000@gmail.com"

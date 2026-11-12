@@ -1,3 +1,4 @@
+git init
 def display_playlist():
     songs = ["Song 1", "Song 2", "Song 3"]
 

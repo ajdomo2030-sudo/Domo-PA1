@@ -1,3 +1,4 @@
+git init
 from profile import StudentProfile
 from playlist import display_playlist
 
