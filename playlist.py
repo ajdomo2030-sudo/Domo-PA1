@@ -1,6 +1,6 @@
 git init
 def display_playlist():
-    songs = ["Song 1", "Song 2", "Song 3"]
+    songs = ["See you again", "Darling I", "she"]
 
     print("\n===== MY PLAYLIST =====")
     for number, song in enumerate(songs, start=1):
