@@ -3,10 +3,10 @@ from profile import StudentProfile
 from playlist import display_playlist
 
 student = StudentProfile(
-    name="Not provided",
-    age="Not provided",
-    favorite="Not provided",
-    hobbies=["Hobby 1", "Hobby 2", "Hobby 3"]
+    name="Aaron James Domo",
+    age="14",
+    favorite="Sports",
+    hobbies=["roblox", "Sports", "Tiktok"]
 )
 
 student.display_profile()
